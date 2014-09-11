@@ -1,0 +1,10 @@
+
+/* Remove meta from post */
+.entry-date, post-date {
+display:none !important;
+}
+
+/* Remove meta from home page */
+.home .entry-date { 
+display: none; 
+}
