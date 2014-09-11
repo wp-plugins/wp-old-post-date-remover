@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This simple plugin dynamically removes the date stamp from all posts that are older than 2 weeks, while leaving the date stamp on newer posts. Ideal for blogs with evergreen content.
+Removes the date stamp from posts older than 2 weeks, while leaving the date stamp on newer posts. Ideal for blogs with evergreen content.
 
 == Description ==
 
