@@ -8,7 +8,8 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This simple plugin removes the date from all posts that are older than 2 weeks, automatically.
+This simple plugin dynamically removes the date stamp from all posts that are older than 2 weeks, while leaving the date stamp on newer posts. Ideal for blogs with evergreen content.
+
 == Description ==
 
 The WP Old Post Date Remover is designed to remove the distractingly old date from otherwise perfectly good evergreen content on your WordPress blog.
