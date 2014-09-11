@@ -21,8 +21,9 @@ If you'd like help customizing, you can email me at ben.meredith@gmail.com
 
 == Installation ==
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Download and unzip wp-old-post-date-remover.zip, producing a `wp-old-post-date-remover` folder.
+1. Upload the `wp-old-post-date-remover`folder to the `/wp-content/plugins/` directory of your web server.
+1. Activate the plugin through the 'Plugins' menu in WordPress.
 1. Done!
 
 == Frequently Asked Questions ==
@@ -38,7 +39,7 @@ Yes, you can make any css style changes to older posts that you would like. Modi
 == Screenshots ==
 
 1. Before WP Old Post Date Remover
-2. After WP Old Post Date Remover
+1. After WP Old Post Date Remover
 
 == Changelog ==
 
