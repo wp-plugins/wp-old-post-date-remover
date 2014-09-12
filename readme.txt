@@ -47,7 +47,7 @@ Yes, you can make any css style changes to older posts that you would like. Modi
 
 = 1.0.1 =
 
-*updated the classes to exclude in the custom CSS to include `post-date`
+* added `post-date` to the classes to exclude in the custom CSS
 
 = 1.0 =
 * first release! Fire when ready.
