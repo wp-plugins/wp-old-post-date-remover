@@ -37,6 +37,10 @@ Yes, but you'll need basic understanding of how to edit files on your server. Si
 
 Yes, you can make any css style changes to older posts that you would like. Modify the OPDRstyle.css file with anything you'd like to show up on those older posts.
 
+= Does this plugin affect Google ranking? =
+
+No, because it simply hides the date from readers using CSS, it has no effect whatsoever on Google or other Search engines. Loading the extra TINY stylesheet on older posts should not noticeably affect page load time.
+
 == Screenshots ==
 
 1. Before WP Old Post Date Remover
