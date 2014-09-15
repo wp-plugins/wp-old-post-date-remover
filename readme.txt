@@ -47,7 +47,7 @@ No, because it simply hides the date from readers using CSS, it has no effect wh
 
 1. Before WP Old Post Date Remover
 1. After WP Old Post Date Remover
-
+1. Settings page (version 2.0)
 == Changelog ==
 
 = 2.0 =
