@@ -4,11 +4,11 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: date remover, old post, evergreen, 
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 1.0
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Removes the date stamp from posts older than 2 weeks, while leaving the date stamp on newer posts. Ideal for blogs with evergreen content.
+Removes the date stamp from older posts (you choose how old), while leaving the date stamp on newer posts. Ideal for blogs with evergreen content.
 
 == Description ==
 
@@ -16,22 +16,24 @@ The WP Old Post Date Remover is designed to remove the distractingly old date fr
 
 You spent time creating it, and now potential readers and customers are getting sidetracked by the fact that it is 13 months old.
 
-Simply install this free plugin and activate it. No settings to mess with, it just automatically removes the date from your posts that are more than 2 weeks old. Easy!
-
-If you'd like help customizing, you can email me at ben.meredith@gmail.com
+Install the WP Old Post Date Remover plugin, activate it, and pick the length of days you'd like to show the dates on your posts. 
+  
+Please rate the plugin, and don't be afraid of the donate button! You can email me at ben.meredith@gmail.com with any questions.
 
 == Installation ==
 
 1. Download and unzip wp-old-post-date-remover.zip, producing a `wp-old-post-date-remover` folder.
+
 1. Upload the `wp-old-post-date-remover`folder to the `/wp-content/plugins/` directory of your web server.
 1. Activate the plugin through the 'Plugins' menu in WordPress.
+1. Navigate to the WP Old Post Date Remover settings page at /wp-admin/options-general.php?page=wp_old_post_date_remover and select the length (in days) of time you'd like to show the date on new posts.
 1. Done!
 
 == Frequently Asked Questions ==
 
 = Can I customize the length of time the date shows? =
 
-Yes, but you'll need basic understanding of how to edit files on your server. Simply change the "14" on line 35 of wp-old-post-date-remover.php to whatever number of days you'd like.
+Yes! as of version 2.0 you can now customize the length of time (in days) in the WP Old Post Date Remover settings page.
 
 = Can I do other cool things to older posts using this plugin? =
 
@@ -39,7 +41,7 @@ Yes, you can make any css style changes to older posts that you would like. Modi
 
 = Does this plugin affect Google ranking? =
 
-No, because it simply hides the date from readers using CSS, it has no effect whatsoever on Google or other Search engines. Loading the extra TINY stylesheet on older posts should not noticeably affect page load time.
+No, because it simply hides the date from readers using CSS, it has no effect whatsoever on Google or other Search engines. Loading the extra TINY stylesheet on older posts should not affect page load time.
 
 == Screenshots ==
 
@@ -47,6 +49,11 @@ No, because it simply hides the date from readers using CSS, it has no effect wh
 1. After WP Old Post Date Remover
 
 == Changelog ==
+
+= 2.0 =
+* added customization options, user can now select specific number of days to show date on newer posts on the newly created Settings page.
+* made the plugin only affect single pages and posts, as opposed to the front page of the blog or category pages. Previous versions deleted all dates regardless of age of the post on home/front pages and category pages.
+* added a direct link to the new plugin settings page from the WP Old Post Date Remover entry on wp-admin/plugins.php
 
 
 = 1.0.1 =
