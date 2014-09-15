@@ -18,7 +18,7 @@ You spent time creating it, and now potential readers and customers are getting 
 
 Install the WP Old Post Date Remover plugin, activate it, and pick the length of days you'd like to show the dates on your posts. 
   
-Please rate the plugin, and don't be afraid of the donate button! You can email me at ben.meredith@gmail.com with any questions.
+Please rate the plugin, and don't be afraid of the donate button! I am active in the support forums if you need assistance.
 
 == Installation ==
 
