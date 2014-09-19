@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: ben.meredith@gmail.com
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HDSGWRJYFQQNJ
-Tags: date remover, old post, evergreen, 
+Tags: date remover, old post, evergreen, plugin, meta, posts, single, CSS, wp_enqueue_style
 Requires at least: 3.0.1
 Tested up to: 4.0
 Stable tag: 2.0.1
