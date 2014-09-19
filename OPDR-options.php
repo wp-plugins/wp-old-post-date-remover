@@ -79,8 +79,15 @@ function wp_old_post_date_remover_options_page(  ) {
 		<?php
 		settings_fields( 'pluginPage' );
 		do_settings_sections( 'pluginPage' );
+		?>
+		<p>The best way you can support this and other plugins is to <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HDSGWRJYFQQNJ" target="_blank">donate</a>. The second best way is to <a href="https://wordpress.org/support/view/plugin-reviews/wp-old-post-date-remover" target="_blank">leave an honest review.</a></p>
+		<p>Did this plugin save you enough time to be worth $3?</p>
+		<p><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HDSGWRJYFQQNJ" target="_blank">Click here to buy me a Coke to say thanks.</a></p>
+		<p>If you are having any difficulty, please post your issue in the <a href="https://wordpress.org/support/plugin/wp-old-post-date-remover" target="_blank">support forum</a>, where I actively help!</p>
+		<?php
 		submit_button();
 		?>
+		
 		
 	</form>
 	<?php
