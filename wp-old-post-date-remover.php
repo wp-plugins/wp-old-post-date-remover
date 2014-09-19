@@ -2,7 +2,7 @@
 /**
  * Plugin Name: WP Old Post Date Remover
  * Plugin URI: http://benandjacq.com/wordpress-plugin-wp-old-post-date-remover/
- * Description: Remove the date on posts and pages over 2 weeks old with no code necessary. 
+ * Description: Remove the date on older posts and pages with no code. You select the number of days! 
  * Version: 2.0.1
  * Author: Ben Meredith
  * Author URI: http://benandjacq.com/
