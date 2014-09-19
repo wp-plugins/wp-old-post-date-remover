@@ -50,7 +50,7 @@ No, because it simply hides the date from readers using CSS, it has no effect wh
 1. Settings page (version 2.0)
 == Changelog ==
 
-=2.0.1=
+= 2.0.1 =
 * added `span.post-date` to the classes to exclude
 
 = 2.0 =
