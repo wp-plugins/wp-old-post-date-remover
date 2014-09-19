@@ -1,6 +1,6 @@
 
 /* Remove meta from post */
-.entry-date, post-date {
+.entry-date, post-date, span.post-date {
 display:none !important;
 }
 

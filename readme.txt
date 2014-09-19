@@ -50,6 +50,9 @@ No, because it simply hides the date from readers using CSS, it has no effect wh
 1. Settings page (version 2.0)
 == Changelog ==
 
+=2.0.1=
+* added `span.post-date` to the classes to exclude
+
 = 2.0 =
 * added customization options, user can now select specific number of days to show date on newer posts on the newly created Settings page.
 * made the plugin only affect single pages and posts, as opposed to the front page of the blog or category pages. Previous versions deleted all dates regardless of age of the post on home/front pages and category pages.
