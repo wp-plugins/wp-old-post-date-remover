@@ -33,7 +33,7 @@ Please rate the plugin, and don't be afraid of the donate button! I am active in
 
 = What do I do if I install the plugin and it's not working? =
 
-I am active in patching the plugin to work for as many themes as possible. Please check out [The Plugin Site](http://benandjacq.com/wordpress-plugin-wp-old-post-date-remover/ "the plugin site") for some troubleshooting, and contact me on the support forums (where I will actively answer).
+I am active in patching the plugin to work for as many themes as possible. Please check out [the plugin site](http://benandjacq.com/wordpress-plugin-wp-old-post-date-remover/ "WP Old Post Date Remover home") for some troubleshooting, and contact me on the support forums (where I will actively answer).
 
 = Can I customize the length of time the date shows? =
 
