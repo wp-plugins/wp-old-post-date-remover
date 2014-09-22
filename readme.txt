@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: date remover, old post, evergreen, plugin, meta, posts, single, CSS, wp_enqueue_style
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 2.0.1
+Stable tag: 2.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,6 +31,10 @@ Please rate the plugin, and don't be afraid of the donate button! I am active in
 
 == Frequently Asked Questions ==
 
+= What do I do if I install the plugin and it's not working? =
+
+I am active in patching the plugin to work for as many themes as possible. Please check out [The Plugin Site](http://benandjacq.com/wordpress-plugin-wp-old-post-date-remover/ "the plugin site")for some troubleshooting, and contact me on the support forums (where I will actively answer).
+
 = Can I customize the length of time the date shows? =
 
 Yes! as of version 2.0 you can now customize the length of time (in days) in the WP Old Post Date Remover settings page.
@@ -49,6 +53,10 @@ No, because it simply hides the date from readers using CSS, it has no effect wh
 1. After WP Old Post Date Remover
 1. Settings page (version 2.0)
 == Changelog ==
+
+= 2.0.2 = 
+* added `span.date` for compatibility with the Twenty Thirteen theme.
+* updated plugin website with troubleshooting for the Twenty Twelve theme
 
 = 2.0.1 =
 * added `span.post-date` to the classes to exclude
