@@ -1,5 +1,5 @@
 
 /* Remove meta from post */
-.entry-date, post-date, span.post-date, span.date {
+.entry-date, post-date, span.post-date, span.date, .entry-time {
 display:none !important;
 }
