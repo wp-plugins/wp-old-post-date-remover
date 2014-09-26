@@ -27,8 +27,8 @@ Please rate the plugin, and don't be afraid of the donate button! I am active in
 1. Download and unzip wp-old-post-date-remover.zip, producing a `wp-old-post-date-remover` folder.
 
 1. Upload the `wp-old-post-date-remover`folder to the `/wp-content/plugins/` directory of your web server.
-1. Activate the plugin through the 'Plugins' menu in WordPress.
-1. Navigate to the WP Old Post Date Remover settings page at /wp-admin/options-general.php?page=wp_old_post_date_remover and select the length (in days) of time you'd like to show the date on new posts.
+1. Activate the plugin through the `Plugins` menu in WordPress.
+1. Navigate to the WP Old Post Date Remover settings page at `/wp-admin/options-general.php?page=wp_old_post_date_remover` and select the length (in days) of time you'd like to show the date on new posts.
 1. Done!
 
 == Frequently Asked Questions ==
