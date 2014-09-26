@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: date remover, old post, evergreen, plugin, meta, posts, single, CSS, wp_enqueue_style
 Requires at least: 3.0.1
 Tested up to: 4.0
-Stable tag: 2.0.3
+Stable tag: 2.0.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -55,6 +55,9 @@ No, because it simply hides the date from readers using CSS, it has no effect wh
 1. After WP Old Post Date Remover
 1. Settings page (version 2.0)
 == Changelog ==
+
+= 2.0.4 = 
+* added `span.post_date` and `span.post_date_intro` for compatibility with some Thesis skins (Pearsonified, Social Triggers, and Classic Responsive have been tested). 
 
 = 2.0.3 = 
 * added `.entry-time` for compatibility with some Genesis child themes. 
