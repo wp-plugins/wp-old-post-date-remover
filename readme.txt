@@ -45,7 +45,7 @@ Yes! as of version 2.0 you can now customize the length of time (in days) in the
 
 = Can I do other cool things to older posts using this plugin? =
 
-Yes, you can make any css style changes to older posts that you would like. Modify the OPDRstyle.css file with anything you'd like to show up on those older posts.
+Yes, you can make any css style changes to older posts that you would like. Modify the OPDRstyle.css file with anything you'd like to show up on those older posts. Keep in mind, though, that any updates to the plugin will overwrite your changes.
 
 = Does this plugin affect Google ranking? =
 
