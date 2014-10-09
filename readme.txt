@@ -22,7 +22,7 @@ NOTE: if your theme does not place the date within its own span class or div cla
 
 Also, this plugin requires special setup for use alongside some caching setups. I'm happy to help get that set up for you. Message me in the forums.
   
-Please rate the plugin, and don't be afraid of the donate button! I am active in the support forums if you need assistance.
+Please rate the plugin, and don't be afraid of the donate button! I am active in the support forums if you need assistance. Thanks for checking us out!
 
 == Installation ==
 
