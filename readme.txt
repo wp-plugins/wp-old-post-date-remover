@@ -18,7 +18,7 @@ You spent time creating it, and now potential readers and customers are getting 
 
 Install the WP Old Post Date Remover plugin, activate it, and pick the length of days you'd like to show the dates on your posts. 
 
-NOTE: if your theme does not place the date within its own span class or div class, this plugin will not work, out of the box. But with a few extra lines of code, we can get you working in no time. Message me in the forums.
+NOTE: if your theme does not place the date within its own span class or div class, (or does that annoying thing where they put the word "on" outside of the date's span or div) this plugin will not work, out of the box. But with a few extra lines of code, we can get you working in no time. Message me in the forums.
 
 Also, this plugin requires special setup for use alongside some caching setups. I'm happy to help get that set up for you. Message me in the forums.
   
