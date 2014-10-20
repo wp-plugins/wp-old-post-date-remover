@@ -1,10 +1,5 @@
 
 /* Remove meta from post */
-.entry-date, post-date {
+li.enigma_post_date, .entry-date, post-date, span.post-date, span.date, .entry-time, span.post_date, span.post_date_intro  {
 display:none !important;
-}
-
-/* Remove meta from home page */
-.home .entry-date { 
-display: none; 
 }
