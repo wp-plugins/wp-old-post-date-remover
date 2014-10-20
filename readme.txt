@@ -12,7 +12,7 @@ Removes the date stamp from older posts (you choose how old), while leaving the 
 
 == Description ==
 
-The WP Old Post Date Remover is designed to remove the distractingly old date from otherwise perfectly good evergreen content on your WordPress blog.
+The WP Old Post Date Remover removes the distractingly old date from otherwise perfectly good evergreen content on your WordPress blog.
 
 You spent time creating it, and now potential readers and customers are getting sidetracked by the fact that it is 13 months old.
 
