@@ -1,5 +1,5 @@
 
 /* Remove meta from post */
-li.enigma_post_date, .entry-date, post-date, span.post-date, span.date, .entry-time, span.post_date, span.post_date_intro  {
+.test_date_class, li.enigma_post_date, .entry-date, post-date, span.post-date, span.date, .entry-time, span.post_date, span.post_date_intro  {
 display:none !important;
 }
