@@ -36,7 +36,7 @@ Please rate the plugin, and don't be afraid of the donate button! I am active in
 == Frequently Asked Questions ==
 
 = Can I hide the date on the blog home page, or archive pages? =
-There's no need to hide the date on the home page, and this plugin will likely never support that functionality. Archive pages (month, day, year, category, tag, post type, etc) may be added in the future, but they'll be all or nothing, i.e. the dates will show on all the posts in that archive or none of the posts in that archive. To test that functionality on your site, you can replace the main php file at ../plugins/wp-old-post-date-remover/wp-old-post-date-remover.php with this experimental code: http://pastebin.com/k9s5kqP1 (note: never change php code from within the WordPress admin unless you like not being able to access your site. Always use FTP and a text editor.)
+There's no need to hide the date on the home page, and this plugin will likely never support that functionality. Archive pages (month, day, year, category, tag, post type, etc) may be added in the future, but they'll be all or nothing, i.e. the dates will show on all the posts in that archive or none of the posts in that archive. To test that functionality on your site, you can download the most recent beta version from https://wordpress.org/plugins/wp-old-post-date-remover/download/ and install it on your site. Message me with questions in the forums.
 
 = What do I do if I install the plugin and it's not working? =
 
