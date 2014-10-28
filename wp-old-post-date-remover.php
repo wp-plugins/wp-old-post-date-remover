@@ -3,7 +3,7 @@
  * Plugin Name: WP Old Post Date Remover
  * Plugin URI: http://benandjacq.com/wordpress-plugin-wp-old-post-date-remover/
  * Description: Remove the date on older posts and pages with no code. You select the number of days! 
- * Version: 2.0.4
+ * Version: 2.1
  * Author: Ben Meredith
  * Author URI: http://benandjacq.com/
  * License: GPL2
@@ -34,12 +34,12 @@ defined('ABSPATH') or die("No script kiddies please!");
 function wp_OPDR_is_Old_Enough ()
 	{
 	
-		$today = date( "r" );
-		$articledate = get_the_time( 'r' );
-		$difference = round( (strtotime( $today ) - strtotime( $articledate ) )/( 24*60*60 ),0);
+		$today = date( 'U' );
+		$articledate = get_the_time( 'U' );
+		$difference = round( ( $today - $articledate ) / ( 24*60*60 ),0);
 		$OPDRinput = get_option( 'opdr_days_to_show_date' );
 		            
-		        if ( $difference >= $OPDRinput && is_single() ) {
+		        if ( $difference >= $OPDRinput && ( is_single() || is_archive() ) ) {
 			wp_enqueue_style( 'remove-style-meta', plugins_url( 'css/OPDRstyle.css', __FILE__ ), false, '1.0', 'all' );
 		} else {
 			
@@ -51,7 +51,7 @@ add_action('loop_start', 'wp_OPDR_is_Old_Enough');
 
 function opdr_options_link($links) { 
   $settings_link = '<a href="options-general.php?page=wp_old_post_date_remover">Settings</a>'; 
-  array_unshift($links, $settings_link); 
+  array_unshift( $links, $settings_link ); 
   return $links; 
 }
  
