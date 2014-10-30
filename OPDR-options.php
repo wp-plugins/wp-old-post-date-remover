@@ -34,20 +34,20 @@ function OPDR__settings_exist(  ) {
 function OPDR__settings_init(  ) { 
 
 	add_settings_section(
-		'OPDR__pluginPage_section', 
+		'OPDR__OPDR_page_section', 
 		__( '', 'opdr' ), 
 		'OPDR__settings_section_callback', 
-		'pluginPage'
+		'OPDR_page'
 	);
 	
 	add_settings_field( 
 		'opdr_days_to_show_date', 
 		__( 'How many days would you like to display the date?', 'opdr' ), 
 		'OPDR__text_field_0_render', 
-		'pluginPage', 
-		'OPDR__pluginPage_section' 
+		'OPDR_page', 
+		'OPDR__OPDR_page_section' 
 	);
-	register_setting( 'pluginPage', 'opdr_days_to_show_date');
+	register_setting( 'OPDR_page', 'opdr_days_to_show_date');
 
 }
 
@@ -77,8 +77,8 @@ function wp_old_post_date_remover_options_page(  ) {
 		<h2>Old Post Date Remover Settings</h2>
 		
 		<?php
-		settings_fields( 'pluginPage' );
-		do_settings_sections( 'pluginPage' );
+		settings_fields( 'OPDR_page' );
+		do_settings_sections( 'OPDR_page' );
 		?>
 		<p>The best way you can support this and other plugins is to <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HDSGWRJYFQQNJ" target="_blank">donate</a>. The second best way is to <a href="https://wordpress.org/support/view/plugin-reviews/wp-old-post-date-remover" target="_blank">leave an honest review.</a></p>
 		<p>Did this plugin save you enough time to be worth $3?</p>
