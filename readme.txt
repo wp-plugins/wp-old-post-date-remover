@@ -61,6 +61,9 @@ No, because it simply hides the date from readers using CSS, it has no effect wh
 1. Settings page (version 2.0)
 == Changelog ==
 
+= 2.2 = 
+* bug fixes related to archive pages not performing correctly. Now the plugin only affects single posts (again).
+
 = 2.1 = 
 * changed inefficient handling of php date function to decrease server load.
 * added additional classes to CSS. 
