@@ -14,7 +14,7 @@ Removes the date stamp from older posts (you choose how old), while leaving the 
 
 The WP Old Post Date Remover removes the distractingly old date from otherwise perfectly good evergreen content on your WordPress blog.
 
-You spent time creating great content, and now potential readers and customers are getting sidetracked by the fact that it is 13 months old.
+You spent the time creating great content, and now readers and potential customers are getting sidetracked by the fact that it is 13 months old.
 
 Install the WP Old Post Date Remover plugin, activate it, and pick the length of days you'd like to show the dates on your posts. 
 
@@ -36,7 +36,7 @@ Please rate the plugin, and don't be afraid of the donate button! I am active in
 == Frequently Asked Questions ==
 
 = Can I hide the date on the blog home page, or archive pages? =
-In my opinion, there's no need to hide the date on the home page (of a regularly updated blog), and this plugin will likely never support that functionality. Archive pages (month, day, year, category, tag, post type, etc) may be added in the future, but they'll be all or nothing, i.e. the dates will show on all the posts in that archive or none of the posts in that archive. To test that functionality on your site, you can download the most recent beta version from https://wordpress.org/plugins/wp-old-post-date-remover/download/ and install it on your site. Message me with questions in the forums.
+In my opinion, there's no need to hide the date on the home page (of a regularly updated blog), and this plugin will likely never support that functionality. Archive pages (month, day, year, category, tag, post type, etc) may be added in the future, but they'll be all or nothing, i.e. the dates will show on all the posts in that archive or none of the posts in that archive. To test that functionality on your site, you can download the experimental branch at [my Github Profile] (https://github.com/Benunc/wp-old-post-date-remover/tree/experimental "BenUNC Github"). Message me with questions in the forums.
 
 = What do I do if I install the plugin and it's not working? =
 
@@ -60,6 +60,9 @@ No, because it simply hides the date from readers using CSS, it has no effect wh
 1. After WP Old Post Date Remover
 1. Settings page (version 2.0)
 == Changelog ==
+
+= 2.2 = 
+* bug fixes related to archive pages not performing correctly. Now the plugin only affects single posts (again).
 
 = 2.1 = 
 * changed inefficient handling of php date function to decrease server load.
