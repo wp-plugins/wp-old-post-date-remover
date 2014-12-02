@@ -10,13 +10,14 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Removes the date stamp from older posts (you choose how old), while leaving the date stamp on newer posts. Ideal for blogs with evergreen content.
 
+
 == Description ==
 
-The WP Old Post Date Remover removes the distractingly old date from otherwise perfectly good evergreen content on your WordPress blog.
+Downloaded more than 2,000 times (with no unresolved support tickets!), the WP Old Post Date Remover removes the distractingly old date from otherwise perfectly good evergreen content on your WordPress blog.
 
-You spent the time creating great content, and now readers and potential customers are getting sidetracked by the fact that it is 13 months old.
+You spent the time creating great content, and now readers and potential customers are getting sidetracked by the fact that it's 13 months old.
 
-Install the WP Old Post Date Remover plugin, activate it, and pick the length of days you'd like to show the dates on your posts. 
+Install the WP Old Post Date Remover plugin, activate it, and pick the number of days you'd like to show the dates on your posts. 
 
 NOTE: if your theme does not place the date within its own span class or div class, (or does that annoying thing where they put the word "on" outside of the date's span or div) this plugin will not work, out of the box. But with a few extra lines of code, we can get you working in no time. Message me in the forums.
 
