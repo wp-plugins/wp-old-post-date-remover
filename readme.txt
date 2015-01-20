@@ -3,9 +3,10 @@ Contributors: ben.meredith@gmail.com
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HDSGWRJYFQQNJ
 Tags: date remover, post, old post, evergreen, plugin, meta, posts, single, CSS, wp_enqueue_style
 Requires at least: 3.0.1
+Author URI: http:/benandjacq.com
+Plugin URI: http://benandjacq.com/wordpress-plugin-wp-old-post-date-remover/
 Tested up to: 4.1
 Stable tag: 2.2.4
-
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +15,7 @@ Removes the date stamp from older posts (you choose how old), while leaving the 
 
 == Description ==
 
-Downloaded more than 2,500 times (with no unresolved support tickets!), the WP Old Post Date Remover removes the distractingly old date from otherwise perfectly good evergreen content on your WordPress blog.
+Downloaded more than 4,000 times (with no unresolved support tickets!), the WP Old Post Date Remover removes the distractingly old date from otherwise perfectly good evergreen content on your WordPress blog.
 
 You spent the time creating great content, and now readers and potential customers are getting sidetracked by the fact that it's 13 months old.
 
