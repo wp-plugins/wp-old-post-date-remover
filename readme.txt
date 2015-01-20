@@ -3,6 +3,7 @@ Contributors: ben.meredith@gmail.com
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HDSGWRJYFQQNJ
 Tags: date remover, post, old post, evergreen, plugin, meta, posts, single, CSS, wp_enqueue_style
 Requires at least: 3.0.1
+Author: Ben Meredith
 Author URI: http:/benandjacq.com
 Plugin URI: http://benandjacq.com/wordpress-plugin-wp-old-post-date-remover/
 Tested up to: 4.1
