@@ -7,7 +7,7 @@ Author: Ben Meredith
 Author URI: http://benandjacq.com
 Plugin URI: http://benandjacq.com/wordpress-plugin-wp-old-post-date-remover/
 Tested up to: 4.1
-Stable tag: 2.2.4
+Stable tag: 2.2.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -64,6 +64,9 @@ No, because it simply hides the date from readers using CSS, it has no effect wh
 1. After WP Old Post Date Remover
 1. Settings page (version 2.0)
 == Changelog ==
+
+= 2.2.5 = 
+* added `.meta time` for compatibility with Sampression theme.
 
 = 2.2.4 = 
 * added `i.icon-calendar.mi` and `time.post_date.date.updated` for compatibility with SevenMag theme by ThemeForest.
