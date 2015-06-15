@@ -7,7 +7,7 @@ Author: Ben Meredith
 Author URI: http://benandjacq.com
 Plugin URI: http://benandjacq.com/wordpress-plugin-wp-old-post-date-remover/
 Tested up to: 4.2
-Stable tag: 2.2.5
+Stable tag: 2.2.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,7 +16,9 @@ Removes the date stamp from older posts (you choose how old), while leaving the 
 
 == Description ==
 
-Downloaded more than 4,000 times (with no unresolved support tickets!), the WP Old Post Date Remover removes the distractingly old date from otherwise perfectly good evergreen content on your WordPress blog.
+WP Old Post Date Remover removes the distractingly old date from otherwise perfectly good evergreen content on your WordPress blog. 
+
+This plugin does not deal with the date on SERPs or archive pages. Single posts only.
 
 You spent the time creating great content, and now readers and potential customers are getting sidetracked by the fact that it's 13 months old.
 
@@ -64,6 +66,9 @@ No, because it simply hides the date from readers using CSS, it has no effect wh
 1. After WP Old Post Date Remover
 1. Settings page (version 2.0)
 == Changelog ==
+
+= 2.2.6 = 
+* added `time,` and `p.post-meta.date-extra,` for compatibility with the Blaskan and OptimizePress themes, respectively.
 
 = 2.2.5 = 
 * added `.meta time` for compatibility with Sampression theme.
