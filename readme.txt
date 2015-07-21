@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: ben.meredith@gmail.com
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HDSGWRJYFQQNJ
-Tags: date remover, post, old post, evergreen, plugin, meta, posts, single, CSS, wp_enqueue_style
+Tags: date remover, post, old post, evergreen, plugin, meta, posts, single, CSS, wp_enqueue_style, translate-me, español,
 Requires at least: 3.0.1
 Author: Ben Meredith
 Author URI: http://benandjacq.com
@@ -66,6 +66,11 @@ No, because it simply hides the date from readers using CSS, it has no effect wh
 1. After WP Old Post Date Remover
 1. Settings page (version 2.0)
 == Changelog ==
+
+= 3.0 =
+* Added i18n, making the plugin able to be translated into other languages.
+* added Spanish language files
+* overhauled the design of the settings page
 
 = 2.2.6 = 
 * added `time,` and `p.post-meta.date-extra,` for compatibility with the Blaskan and OptimizePress themes, respectively.
